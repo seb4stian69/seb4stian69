@@ -1,4 +1,4 @@
-# <img width="7em" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif"> Hello everyone <img width="7em" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif">
+# <img style="width=7em;" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif"> Hello everyone <img width="7em" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif">
 
 <code>
 <img width="24em" src="https://www.emojiall.com/images/240/microsoft-teams/1f916.png"> <¡I'm Sebastian Santis, <b>web</b> and <b>mobile</b> <s>developer</s> enthusiast!> <img width="27em" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/fire_1f525.gif">
