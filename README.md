@@ -1,7 +1,6 @@
-# <img style="width=7em;" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif"> Hello everyone <img width="7em" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif">
-
+# 👋 Hello everyone 👋
 <code>
-<img width="24em" src="https://www.emojiall.com/images/240/microsoft-teams/1f916.png"> <¡I'm Sebastian Santis, <b>web</b> and <b>mobile</b> <s>developer</s> enthusiast!> <img width="27em" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/fire_1f525.gif">
+<img width="24em" src="https://www.emojiall.com/images/240/microsoft-teams/1f916.png"> <¡I'm Sebastian Santis, <b>web</b> and <b>mobile</b> <s>developer</s> enthusiast!> 🔥
 </code>
 
 ## Education • 👨🏽‍🎓
@@ -77,10 +76,10 @@ I am a web developer committed to find solutions focused on the integral growth 
 
 - <a href="#d" style="color: currentcolor">Portfolio (In process)</a>
 - <a href="mailto:sebastiandasanhe.8712@gmail.com?Subject=Hola%20sebas%20necesito%20tu%20ayuda%20en%20..." style="color: currentcolor">Send an email</a>
-- <a href="https://twitter.com/Seb4stianSantis" style="color: currentcolor">Twitter</a> <img src="">
-- <a href="https://www.linkedin.com/in/sebastian-david-santis-hernandez-17322b227/" style="color: currentcolor">Linkedin</a> <img src="">
+- <a href="https://twitter.com/Seb4stianSantis" style="color: currentcolor">Twitter</a>
+- <a href="https://www.linkedin.com/in/sebastian-david-santis-hernandez-17322b227/" style="color: currentcolor">Linkedin</a>
 - <a style="color: currentcolor">Discord - [xDe
-#4486]</a> <img src="">
+#4486]</a>
 
 ## Languages • 🌎
 
