@@ -7,6 +7,10 @@
 
 - <a href="https://cecar.edu.co/programas/extension-sincelejo/pregrado/programas-modalidad-presencial/ingenieria-de-sistemas" style="color:currentcolor;">Systems Engineer</a> - <b>5th semester</b>
 - <a href="https://drive.google.com/file/d/1PxxQjfDNb3iB2wxCmeX9YbPgG8xbt4ZK/view?usp=sharing" style="color:currentcolor;">Training Software Development</a> - <b>Completed</b>
+  
+## About me • 🙋🏽‍♂️
+
+I am a web developer committed to find solutions focused on the integral growth of those people with limited possibilities, I always try to help anyone who asks me for support and I think that one of the best ways to grow is helping others to do it too. I consider myself a proactive, creative, resilient and friendly person. Don't hesitate to write me if you think I can help you in any way. 😉😜
 
 ## Skills • 🎯
 
@@ -67,10 +71,6 @@
     <img src="https://skillicons.dev/icons?i=powershell,visualstudio,vscode,idea,figma,xd,ps,sketchup" />
   </a>
 </p>
-
-## About me • 🙋🏽‍♂️
-
-I am a web developer committed to find solutions focused on the integral growth of those people with limited possibilities, I always try to help anyone who asks me for support and I think that one of the best ways to grow is helping others to do it too. I consider myself a proactive, creative, resilient and friendly person. Don't hesitate to write me if you think I can help you in any way. 😉😜
 
 ## Links • 🔗
 
