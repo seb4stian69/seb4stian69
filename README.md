@@ -3,8 +3,8 @@
 
 ## Education • 👨🏽‍🎓
 
-- <a href="https://cecar.edu.co/programas/extension-sincelejo/pregrado/programas-modalidad-presencial/ingenieria-de-sistemas" style="color:currentcolor;">Systems Engineer</a> - <b>5th semester</b>
-- <a href="https://drive.google.com/file/d/1PxxQjfDNb3iB2wxCmeX9YbPgG8xbt4ZK/view?usp=sharing" style="color:currentcolor;">Training Software Development</a> - <b>Completed</b>
+- <a target="_blank" href="https://cecar.edu.co/programas/extension-sincelejo/pregrado/programas-modalidad-presencial/ingenieria-de-sistemas" style="color:currentcolor;">Systems Engineer</a> - <b>5th semester</b>
+- <a target="_blank" href="https://drive.google.com/file/d/1PxxQjfDNb3iB2wxCmeX9YbPgG8xbt4ZK/view?usp=sharing" style="color:currentcolor;">Training Software Development</a> - <b>Completed</b>
   
 ## About me • 🙋🏽‍♂️
 
@@ -72,7 +72,7 @@ I am a web developer committed to find solutions focused on the integral growth 
 
 ## Links • 🔗
 
-- <a href="#d" style="color: currentcolor">Portfolio (In process)</a>
+- <a target="_blank" href="#d" style="color: currentcolor">Portfolio (In process)</a>
 - <a href="mailto:sebastiandasanhe.8712@gmail.com?Subject=Hola%20sebas%20necesito%20tu%20ayuda%20en%20..." style="color: currentcolor">Send an email</a>
 - <a href="https://twitter.com/Seb4stianSantis" style="color: currentcolor">Twitter</a>
 - <a href="https://www.linkedin.com/in/sebastian-david-santis-hernandez-17322b227/" style="color: currentcolor">Linkedin</a>
