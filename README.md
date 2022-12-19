@@ -1,7 +1,5 @@
 # 👋 Hello everyone 👋
-<code>
-🤖 <¡I'm Sebastian Santis, <b>web</b> and <b>mobile</b> <s>developer</s> enthusiast!> 🔥
-</code>
+<code>🤖 <¡I'm Sebastian Santis, <b>web</b> and <b>mobile</b> <s>developer</s> enthusiast!> 🔥</code>
 
 ## Education • 👨🏽‍🎓
 
