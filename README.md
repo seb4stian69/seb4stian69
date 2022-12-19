@@ -1,6 +1,6 @@
 # 👋 Hello everyone 👋
 <code>
-<img width="24em" src="https://www.emojiall.com/images/240/microsoft-teams/1f916.png"> <¡I'm Sebastian Santis, <b>web</b> and <b>mobile</b> <s>developer</s> enthusiast!> 🔥
+🤖 <¡I'm Sebastian Santis, <b>web</b> and <b>mobile</b> <s>developer</s> enthusiast!> 🔥
 </code>
 
 ## Education • 👨🏽‍🎓
