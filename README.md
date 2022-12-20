@@ -76,6 +76,7 @@ I am a web developer committed to find solutions focused on the integral growth 
 - <a href="mailto:sebastiandasanhe.8712@gmail.com?Subject=Hola%20sebas%20necesito%20tu%20ayuda%20en%20..." style="color: currentcolor">Send an email</a>
 - <a href="https://twitter.com/Seb4stianSantis" style="color: currentcolor">Twitter</a>
 - <a href="https://www.linkedin.com/in/sebastian-david-santis-hernandez-17322b227/" style="color: currentcolor">Linkedin</a>
+- <a href="https://www.instagram.com/seb4stiansantis69/?hl=es">Instagram</a>
 - <a style="color: currentcolor">Discord - [xDe
 #4486]</a>
 
