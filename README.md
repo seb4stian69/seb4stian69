@@ -37,7 +37,7 @@ I am a web developer committed to find solutions focused on the integral growth 
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=maven,spring,nestjs,dotnet,django" /><img style="width:49px; margin-left:10px" src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_reverse.svg"/>
+    <img src="https://skillicons.dev/icons?i=maven,spring,nestjs,dotnet,django" /><img style="width: 48px; margin-left:8px; max-width: 100%;" src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_reverse.svg"/>
   </a>
 </p>
 <p align="left">
