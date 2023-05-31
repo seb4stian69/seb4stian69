@@ -66,7 +66,7 @@ I am a web developer committed to find solutions focused on the integral growth 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,visualstudio,vscode,idea,pycharm,figma,xd,ps,sketchup" />
+    <img src="https://skillicons.dev/icons?i=powershell,visualstudio,vscode,idea,figma,xd,ps,sketchup" />
   </a>
 </p>
 
