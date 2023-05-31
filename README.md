@@ -58,7 +58,7 @@ I am a web developer committed to find solutions focused on the integral growth 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,firebase,heroku,vercel,jenkins,azure,aws" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,firebase,heroku,vercel,jenkins,azure,aws,openshift" />
   </a>
 </p>
 
