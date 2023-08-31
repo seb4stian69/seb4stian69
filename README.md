@@ -3,7 +3,7 @@
 
 ## Education • 👨🏽‍🎓
 
-- <a target="_blank" href="https://cecar.edu.co/programas/extension-sincelejo/pregrado/programas-modalidad-presencial/ingenieria-de-sistemas" style="color:currentcolor;">Systems Engineer</a> - <b>5th semester</b>
+- <a target="_blank" href="https://cecar.edu.co/programas/extension-sincelejo/pregrado/programas-modalidad-presencial/ingenieria-de-sistemas" style="color:currentcolor;">Systems Engineer</a> - <b>6th semester</b>
 - <a target="_blank" href="https://drive.google.com/file/d/1PxxQjfDNb3iB2wxCmeX9YbPgG8xbt4ZK/view?usp=sharing" style="color:currentcolor;">Training Software Development</a> - <b>Completed</b>
   
 ## About me • 🙋🏽‍♂️
