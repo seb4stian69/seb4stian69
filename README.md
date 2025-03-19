@@ -76,7 +76,7 @@ I am a web developer committed to find solutions focused on the integral growth 
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,nginx,yarn" /><img style="width: 48px; max-width: 100%; margin-left:8px; border-radius:50%;" src="https://sixe.es/wp-content/uploads/2024/08/integrationbusibm.webp"/><img style="width: 48px; max-width: 100%; margin-left:8px; border-radius:50%;" src="https://www.midvision.com/crane/wp-content/uploads/2017/11/WAS-AS.png"/>
+    <img src="https://skillicons.dev/icons?i=kubernetes,nginx,yarn" /><img style="width: 48px; max-width: 100%; margin-left:8px; border-radius:50%;" src="https://www.midvision.com/crane/wp-content/uploads/2017/11/WAS-AS.png"/>
   </a>
 </p>
 
