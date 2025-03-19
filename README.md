@@ -3,7 +3,7 @@
 
 ## Education • 👨🏽‍🎓
 
-- <a target="_blank" href="https://cecar.edu.co/programas/extension-sincelejo/pregrado/programas-modalidad-presencial/ingenieria-de-sistemas" style="color:currentcolor;">Systems Engineer</a> - <b>7th semester</b>
+- <a target="_blank" href="https://www.uniremington.edu.co/facultades/facultad-de-ingenierias/ingenieria-de-sistemas-virtual/" style="color:currentcolor;">Systems Engineer</a> - <b>6th semester</b>
 - <a target="_blank" href="https://drive.google.com/file/d/1dY5H_zcI4j6LQvvdKSvHJN1kgyEH_lQj/view?usp=sharing" style="color:currentcolor;">Training Software Development</a> - <b>Completed</b>
   
 ## About me • 🙋🏽‍♂️
@@ -11,6 +11,14 @@
 I am a web developer committed to find solutions focused on the integral growth of those people with limited possibilities, I always try to help anyone who asks me for support and I think that one of the best ways to grow is helping others to do it too. I consider myself a proactive, creative, resilient and friendly person. Don't hesitate to write me if you think I can help you in any way. 😉😜
 
 ## Skills • 🎯
+
+<p aling="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,redhat,arch,ubuntu,arduino," />
+  </a>
+</p>
+
+<hr>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -24,7 +32,7 @@ I am a web developer committed to find solutions focused on the integral growth 
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,js,ts,r" />
+    <img src="https://skillicons.dev/icons?i=php,python,js,ts,r,octave" />
   </a>
 </p>
 
@@ -37,12 +45,17 @@ I am a web developer committed to find solutions focused on the integral growth 
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img style="margin-right:8px !important;" src="https://skillicons.dev/icons?i=maven,spring,nestjs,dotnet,django" /><img style="width: 48px; max-width: 100%;" src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_reverse.svg"/>
+    <img style="margin-right:8px !important;" src="https://skillicons.dev/icons?i=nestjs,dotnet,django,maven,hibernate,spring" /><img style="width: 48px; max-width: 100%;" src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_reverse.svg"/>
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,angular,nodejs,express,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=npm,pnpm,react,redux,angular,nodejs,express,tensorflow" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,astro,hibernate,graphql,jest" /><img style="width: 48px; max-width: 100%; margin-left:8px" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/JMeter_Logo.png"/>
   </a>
 </p>
 
@@ -50,7 +63,7 @@ I am a web developer committed to find solutions focused on the integral growth 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,dynamodb,redis" /><img style="width: 48px; max-width: 100%; margin-left:8px; border-radius:50%;" src="https://conectasoftware.com/wp-content/uploads/2020/07/ibm-as-400-conector-ecommerce.png"/>
   </a>
 </p>
 
@@ -61,12 +74,17 @@ I am a web developer committed to find solutions focused on the integral growth 
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,firebase,heroku,vercel,jenkins,azure,aws,openshift" />
   </a>
 </p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,nginx,yarn" /><img style="width: 48px; max-width: 100%; margin-left:8px; border-radius:50%;" src="https://sixe.es/wp-content/uploads/2024/08/integrationbusibm.webp"/><img style="width: 48px; max-width: 100%; margin-left:8px; border-radius:50%;" src="https://www.midvision.com/crane/wp-content/uploads/2017/11/WAS-AS.png"/>
+  </a>
+</p>
 
 <hr>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,visualstudio,vscode,idea,figma,xd,ps,sketchup,discord" />
+    <img src="https://skillicons.dev/icons?i=powershell,visualstudio,vscode,idea,figma,xd,ai,ps,sketchup,discord,notion" />
   </a>
 </p>
 
@@ -88,4 +106,3 @@ I am a web developer committed to find solutions focused on the integral growth 
 ## GitHub stats • 📈
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seb4stian69&theme=dark&border_radius=2.2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- 
