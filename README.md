@@ -55,7 +55,7 @@ I am a web developer committed to find solutions focused on the integral growth 
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,astro,hibernate,graphql,jest" /><img style="width: 48px; max-width: 100%; margin-left:8px" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/JMeter_Logo.png"/>
+    <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,astro,graphql,jest" /><img style="width: 48px; max-width: 100%; margin-left:8px" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/JMeter_Logo.png"/>
   </a>
 </p>
 
