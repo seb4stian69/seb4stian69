@@ -105,4 +105,8 @@ I am a web developer committed to find solutions focused on the integral growth 
 
 ## GitHub stats • 📈
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eba47a7accffac5de56eebeb5e156dd55ebff1f601477b93a1290f5203872bd0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d656d616e75656c6765726d616e6f39302673686f775f69636f6e733d74727565267468656d653d6d65726b6f"><img src="https://camo.githubusercontent.com/eba47a7accffac5de56eebeb5e156dd55ebff1f601477b93a1290f5203872bd0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d656d616e75656c6765726d616e6f39302673686f775f69636f6e733d74727565267468656d653d6d65726b6f" alt="Sebastian Santis GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=seb4stian69&amp;show_icons=true&amp;theme=merko" style="max-width: 100%;"></a></p>
+
+<p dir="auto"><a href="https://github.com/emanuelgermano90/github-readme-stats"><img src="https://camo.githubusercontent.com/d0b68d18633007c36cc1fe176c177c9e517286b912e8519408a1299c918a4250/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d656d616e75656c6765726d616e6f3930266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=seb4stian69&amp;layout=compact" style="max-width: 100%;"></a></p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seb4stian69&theme=dark&border_radius=2.2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
